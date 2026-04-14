@@ -1,17 +1,13 @@
+https://wiring.org.co/  
+
+https://processing.org/  
+
 Very simple Arduino sketch for the RDA5807M (RRD-102 module) FM radio receiver IC
-Luc Small
-lucsmall.com
-20150518
 
+Original code was written by  
 
+Luc Small  
+lucsmall.com  
+20150518  
 
-See these videos for more:
-
-"Talking about my Arduino sketch for the RDA5807M FM Radio IC"
-http://youtu.be/9TegkAu96nE
-
-"Connecting the RDA5807M FM Radio IC to an Arduino"
-https://youtu.be/2j1hX4uzkQ8
-
-"Making my Arduino controlled RDA5807M FM Radio"
-https://youtu.be/4pZmkeqg5h8
+There are lots of BITs undefined in the code. Those bits will be re-defined and added in the comments in the code.
